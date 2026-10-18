@@ -33,4 +33,6 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) en tu equipo.
    Descarga los paquetes de Node y React necesarios para que el entorno funcione. Ejecuta:
    ```bash
    npm install
+   cd EstudentCard
    npm run dev
+   o + ENTER
